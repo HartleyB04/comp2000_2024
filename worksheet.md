@@ -12,6 +12,7 @@ Take a look at the two repositories:
 And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
+  They are git websites. They provide different features. Neither one is better. 
 
   * Who made the last commit to repository A?
   Matthew Robberts
@@ -36,7 +37,9 @@ And answer the following questions about them:
   Both are not active as the last commits were two years ago.
 
   * 🤔 Which file in each project has had the most activity?
-  
+  The static/data/forces.csv file has the most activity in master
+  The src/main/java/wyil/lang/WyilFile.java file has the most activity in whileycomplier
+
 
 # Task 2
 
